@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
+
 *{
     box-sizing: border-box;
     padding: 0;
@@ -74,4 +75,20 @@ main{
 
 .attribution a{ 
     color: hsl(228, 45%, 44%); 
+}
+
+@media (min-width: 700px) {
+
+    .container{
+        width: 500px;
+    }
+
+    .mobile{
+        display: none;
+    }
+
+    .desktop{
+        display: block;
+    }
+    
 }
