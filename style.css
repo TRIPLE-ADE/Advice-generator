@@ -12,6 +12,7 @@
     --color-neutral-100:hsl(217, 19%, 38%);
     --color-neutral-200:hsl(217, 19%, 24%);
     --color-neutral-300:hsl(218, 23%, 16%);
+    --box-shadow:hsla(150, 100%, 66%, 0.5);
     --font-family: 'Manrope', sans-serif;
     --font-size-base: 10px;
     --font-size-large: 18px;
@@ -67,6 +68,11 @@ main{
     position: absolute;
     bottom: -30px;
     border: none;
+}
+
+.dice:hover{
+    cursor: pointer;
+    box-shadow: 1px 1px 20px 7px var(--box-shadow);
 }
 
 .attribution{ 
