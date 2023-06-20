@@ -8,6 +8,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Branches](#branches)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -37,6 +38,14 @@ Users should be able to:
 
 - Solution URL: [Add solution URL here](https://github.com/TRIPLE-ADE/Advice-generator)
 - Live Site URL: [Add live site URL here](https://triple-ade.github.io/Advice-generator/)
+
+### :cactus: Branches
+
+ I use an agile continuous integration methodology, so the version is frequently updated and development is really fast.
+
+1. **`stage`** is the development branch.
+
+2. **`master`** is the production branch.
 
 # My process
 
